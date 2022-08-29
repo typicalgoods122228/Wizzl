@@ -109,9 +109,9 @@ refers = [
      'SERVER_BYPASSED_WIZZSEC']
 
 os.system("clear")
-methods = (random.randint(UDP,TCP))
+methods = "UDP"
 times = (random.randint(6728,6690,6550))
-pppop = (random.randint(SOCKS5,PROXY,SOCKS4))
+pppop = "HTTP"
 print("   ╔═══════════════════════════╗")
 print("   ║    TOOLS EXAULTS GENERATION    ║")
 print(f"  ║ Attacked Ip   : {ip}           ║")
