@@ -110,7 +110,7 @@ refers = [
 
 os.system("clear")
 methods = "UDP"
-times = (random.randint(6728,6690,6550))
+times = (random.randint(672,688))
 pppop = "HTTP"
 print("   ╔═══════════════════════════╗")
 print("   ║    TOOLS EXAULTS GENERATION    ║")
